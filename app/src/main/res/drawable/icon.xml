@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item><shape android:shape="oval"><gradient android:angle="315" android:startColor="#FF3A3A3E" android:endColor="#FF141416" /></shape></item>
+    <item android:drawable="@drawable/glyph" android:left="22dp" android:top="22dp" android:right="22dp" android:bottom="22dp" />
+</layer-list>

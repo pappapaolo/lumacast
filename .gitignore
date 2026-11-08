@@ -1,0 +1,12 @@
+.gradle/
+build/
+app/build/
+app/.cxx/
+local.properties
+*.jks
+*.keystore
+keystore.properties
+third_party/openssl-build/
+.DS_Store
+.idea/
+*.iml
